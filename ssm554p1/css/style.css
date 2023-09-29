@@ -1,0 +1,350 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	line-height: 1.7em;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Lato', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+.header{
+
+	width: 100%;
+	padding: 10px 0px;
+	background: #f4f4f4;
+
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+	color: #aaaaaa;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
+    margin: 0px 0px 0px 15px;
+
+
+}
+
+.banner{
+	width: 100%;
+	padding: 80px 0px;
+	margin: 60px 30px 0px 215px;
+	background: url(../images/d.png) no-repeat;
+
+
+
+}
+
+.banner h6{
+
+	font-size: 16px;
+	line-height: 1.7em;
+	position: relative;
+	top: -37px;
+
+
+}
+
+.img-fluid{
+	float: left;
+	padding: 10px;
+	
+
+
+}
+
+.banner p{
+	padding: 15px;
+	font-size: 16px;
+
+}
+
+.img-bd{
+	margin: 80px 20px 0px 100px;
+}
+
+.feature{
+	margin: -30px
+}
+
+.feature p{
+	margin: 0px 0px 0px 200px;
+	font-size: 14px;
+	color: #848484;
+}
+
+
+
+.f1{
+	margin: -30px
+}
+
+.f1 p{
+
+	font-size: 14px;
+	color: #848484;
+	margin: 50px 0px 0px 200px;
+}
+
+
+
+.f2{
+	margin: -30px
+}
+
+.f2 p{
+
+	font-size: 14px;
+	color: #848484;
+	margin: 55px 0px 0px 200px;
+	
+}
+
+.f2 img{
+	margin:40px 0px 0px 200px ;
+}
+
+.f2 .img-cd{
+	margin: 60px 20px 0px 327px;
+
+}
+
+.f3{
+	margin: -30px;
+}
+
+
+.f3 p{
+	margin: 80px 200px;
+	font-size: 13px;
+	color: #c2c2c2;
+
+
+}
+
+.f4{
+	margin: -130px;
+
+}
+
+
+.f4 p{
+	margin: 80px 200px;
+	font-size: 13px;
+	color: #c2c2c2;
+
+
+}
+
+.f5{
+	margin: -130px;
+}
+
+
+
+.f5 p{
+	margin: 80px 200px;
+	font-size: 13px;
+	color: #c2c2c2;
+
+
+}
+
+.f5 img{
+	margin: -100px 200px;
+}
+
+
+.f5 .img-ed{
+	margin: 70px 430px;
+}
+
+
+.f6{
+	margin: 120px;
+}
+
+
+.f6 p{
+
+	margin: -15px 170px;
+	color: #c2c2c2;
+}
+
+.f7{
+	margin: 120px;
+}
+
+
+.f7 p{
+
+	margin: -90px 170px;
+	color: #c2c2c2;
+}
+
+
+
+.f8{
+	margin: 120px;
+}
+
+
+.f8 p{
+
+	margin: -140px 170px;
+	color: #c2c2c2;
+}
+
+
+.fight{
+	width: 100%;
+	padding: 80px 0px;
+     
+}
+
+
+.fight img{
+	position: relative;
+	top: -200px;
+}
+
+
+.footer{
+	width: 100%;
+	margin: -245px 0px;
+	text-align: center;
+
+}
+
+.footer p{
+
+	color: #6d6d6d;
+	font-size: 14px;
+
+}
+
+
+
+/*css media query start*/
+
+/*****
+ * screen resulation : 279px to 319px
+ * Most of the folding mobile phone -- Galaxy Fold
+ * 
+ * 
+ * */
+
+@media (min-width: 279px) and (max-width:319px) {
+/*css start*/
+
+
+
+
+/*css end*/
+
+}
+
+
+
+
+/*****
+ * screen resulation : 320px to 480px
+ * Most of the mobile phones
+ * 
+ * 
+ * */
+
+@media (min-width: 320px) and (max-width:480px) {
+/*css start*/
+
+ .banner{
+ 	padding: 30px 0px;
+ }  
+
+
+/*css end*/
+
+}
+
+
+
+
+/*****
+ * screen resulation : 481px to 767px
+ * Most of the mobile phones & Low Resulations Tab
+ * 
+ * 
+ * */
+
+@media (min-width: 481px) and (max-width:767px) {
+/*css start*/
+
+
+
+
+/*css end*/
+
+}
+
+
+
+/*****
+ * screen resulation : 768px to 1024px
+ * Most of the Tablets, Notebooks, ipads
+ * 
+ * 
+ * */
+
+@media (min-width: 768px) and (max-width:1024px) {
+/*css start*/
+
+
+
+
+/*css end*/
+
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
